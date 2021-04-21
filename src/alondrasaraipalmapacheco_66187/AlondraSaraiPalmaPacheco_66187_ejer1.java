@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Alondra Palma
  */
-public class AlondraSaraiPalmaPacheco_66187 {
+public class AlondraSaraiPalmaPacheco_66187_ejer1 {
 
     /**
      * @param args the command line arguments
