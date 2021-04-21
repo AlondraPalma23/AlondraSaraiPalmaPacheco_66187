@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package alondrasaraipalmapacheco_66187_ejer2;
+package alondrasaraipalmapacheco_66187;
 
 import java.util.Scanner;
 
